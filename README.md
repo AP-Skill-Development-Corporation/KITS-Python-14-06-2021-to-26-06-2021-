@@ -21,4 +21,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Reference (GITHUB and RECORDED_VIDEOS) links:
 [Github link (For daily Jupyter Notebooks)](https://github.com/AP-Skill-Development-Corporation/KITS-Python-14-06-2021-to-26-06-2021-.git)
 
-[Recorded Videos](Daily)(https://drive.google.com/drive/folders/1w7zEkmC5zE3rAg7ryIAwq0StgueS5zu1?usp=sharing)
+[Recorded Videos(Daily)](https://drive.google.com/drive/folders/1w7zEkmC5zE3rAg7ryIAwq0StgueS5zu1?usp=sharing)
